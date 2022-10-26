@@ -49,8 +49,4 @@ it("Has the correct html without selector", async () => {
 });
 ```
 
-## About "Up For Grabs"
 
-I've been doing OSS for ~10 years and it has been immensely useful for me in many ways, so I'd love to help others get started. Reviewing the PRs is a bit more work than implementing the code myself, but that's not an issue as long as I can help others.
-
-I've done an "up for grabs" before with [Umbrella JS](https://umbrellajs.com/), and the experience has been quite good. Unfortunately I'm not supporting that project anymore so issues are not visible there.
